@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Atharva!
 
-<!--
-**atharvapravinshingane/atharvapravinshingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering | Manufacturing | Computational Analysis
 
-Here are some ideas to get you started:
+I am an incoming Master's student in Mechanical Engineering,
+with a B.Tech in Manufacturing Science and Industrial Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Mechanical Design and CAD
+- Manufacturing Engineering and Optimization
+- Computational Mechanics and Simulation
+- Engineering Analysis and Automation
+
+## Currently Learning
+- Python for Engineering
+- Git and GitHub
+- CAD and Numerical Methods
+
+## Objective
+To apply engineering principles and computational techniques
+to solve practical mechanical and manufacturing challenges.
+
+## Projects
+Engineering projects and technical analyses will be added here
+as I progress through my studies.
